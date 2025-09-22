@@ -36,8 +36,8 @@ Use Cartify’s sales, operational, and customer data to:
 - **Data Storytelling**  
 
 ## 📂 Repository Contents  
-- `DA_Report_GauranshGautam.pdf` – Detailed report & findings  
-- `DA_PowerBI_Gauransh Gautam.pbix` - Dashboard
+- [`DA_Report_GauranshGautam.pdf`](./DA_Report_GauranshGautam.pdf) – Detailed report & findings  
+- [`DA_PowerBI_Gauransh Gautam.pbix`](./DA_PowerBI_GauranshGautam.pbix) - Dashboard
 
 ## 🖼️ Dashboard Screenshots  
 
