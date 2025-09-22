@@ -41,10 +41,10 @@ Use Cartify’s sales, operational, and customer data to:
 
 ## 🖼️ Dashboard Screenshots  
 
-![Sales & Profitability Dashboard](screenshots/sales_profitability.png)  
+![Sales & Profitability Dashboard](./Screenshots/Screenshot 2025-09-21 180758.png)
+  
+![Discount Analysis Dashboard])(./Screenshots/Screenshot 2025-09-21 180807.png)
 
-![Discount Analysis Dashboard](screenshots/discount_analysis.png)  
+![Logistics Performance Dashboard](./Screenshots/Screenshot 2025-09-21 180817.png) 
 
-![Logistics Performance Dashboard](screenshots/logistics_performance.png)  
-
-![Returns & Pareto Dashboard](screenshots/returns_pareto.png)  
+![Returns & Pareto Dashboard](./Screenshots/Screenshot 2025-09-21 180825.png)   
