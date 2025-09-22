@@ -39,12 +39,12 @@ Use Cartify’s sales, operational, and customer data to:
 - [`DA_Report_GauranshGautam.pdf`](./DA_Report_GauranshGautam.pdf) – Detailed report & findings  
 - [`DA_PowerBI_Gauransh Gautam.pbix`](./DA_PowerBI_GauranshGautam.pbix) - Dashboard
 
-## 🖼️ Dashboard Screenshots  
+🖼️ Dashboard Screenshots
 
-![Sales & Profitability Dashboard](./Screenshots/Screenshot 2025-09-21 180758.png)
+![Sales & Profitability Dashboard](./Screenshots/Screenshot%202025-09-21%20180758.png)
 
-![Discount Analysis Dashboard](./Screenshots/Screenshot 2025-09-21 180807.png)
+![Discount Analysis Dashboard](./Screenshots/Screenshot%202025-09-21%20180807.png)
 
-![Logistics Performance Dashboard](./Screenshots/Screenshot 2025-09-21 180817.png)
+![Logistics Performance Dashboard](./Screenshots/Screenshot%202025-09-21%20180817.png)
 
-![Returns & Pareto Dashboard](./Screenshots/Screenshot 2025-09-21 180825.png)
+![Returns & Pareto Dashboard](./Screenshots/Screenshot%202025-09-21%20180825.png)
